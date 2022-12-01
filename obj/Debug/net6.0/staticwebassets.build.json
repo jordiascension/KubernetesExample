@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "D9WDXNrFoq5GvPNM360irPFr35cKQMAoXRmlymPjCDg=",
+  "Source": "KubernetesApi",
+  "BasePath": "_content/KubernetesApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
